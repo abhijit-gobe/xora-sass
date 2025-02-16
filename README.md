@@ -24,14 +24,6 @@
 
 ---
 
-## 🌐 Live Website
-
-You can view the live version of the Xora project here:
-
-🔗 [Live Website](#) <!-- Replace # with your live website URL -->
-
----
-
 ## 🛠️ Tech Stack
 
 This project is built using:
